@@ -22,3 +22,6 @@ Un **decorador** en Python es una función que permite modificar el comportamien
 [Limitador de frecuencia](limitador.py)
     [momento del ejemplo](https://youtu.be/iarFwWYsCoc?t=801)
     Cuanto se puede ejecutar la funcion en un periodo de tiempo
+[Requerir Autenticacion](requerir_autenticacion.py)
+    [momento del ejemplo](https://youtu.be/iarFwWYsCoc?t=959)
+    Una funcion solo se ejecute cuando el usuario este autenticado
