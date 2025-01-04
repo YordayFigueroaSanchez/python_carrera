@@ -17,4 +17,5 @@ Un **decorador** en Python es una función que permite modificar el comportamien
 [Medir tiempo](medidor_tiempo.py)
 [Reintentar](reintentar.py)
     [momento del ejemplo](https://youtu.be/iarFwWYsCoc?t=499)
-
+[Convertir a mayusculas](convertir_a_mayusculas.py)
+    [momento del ejemplo](https://youtu.be/iarFwWYsCoc?t=728)
