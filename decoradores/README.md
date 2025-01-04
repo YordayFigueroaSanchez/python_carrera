@@ -19,3 +19,6 @@ Un **decorador** en Python es una función que permite modificar el comportamien
     [momento del ejemplo](https://youtu.be/iarFwWYsCoc?t=499)
 [Convertir a mayusculas](convertir_a_mayusculas.py)
     [momento del ejemplo](https://youtu.be/iarFwWYsCoc?t=728)
+[Limitador de frecuencia](limitador.py)
+    [momento del ejemplo](https://youtu.be/iarFwWYsCoc?t=801)
+    Cuanto se puede ejecutar la funcion en un periodo de tiempo
