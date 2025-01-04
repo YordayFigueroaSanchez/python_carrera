@@ -13,3 +13,5 @@ Puedes ver un video explicativo que acompaña este proyecto y te ayudará a comp
 Un **decorador** en Python es una función que permite modificar el comportamiento de otra función. Los decoradores se utilizan comúnmente para añadir funcionalidades extra a las funciones sin modificar su código original.
 
 [Registar en archivo](registrar_en_archivo.py)
+[Retrazar una ejecucion](retraso.py)
+
