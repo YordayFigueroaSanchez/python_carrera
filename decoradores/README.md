@@ -14,4 +14,5 @@ Un **decorador** en Python es una función que permite modificar el comportamien
 
 [Registar en archivo](registrar_en_archivo.py)
 [Retrazar una ejecucion](retraso.py)
+[Medir tiempo](medidor_tiempo.py)
 
